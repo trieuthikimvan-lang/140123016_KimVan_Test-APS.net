@@ -11,34 +11,38 @@ namespace WebApplication1
 {
     public partial class Login : System.Web.UI.Page
     {
-        Ketnoi kn = new ketnoi();
+        Ketnoi kn = new Ketnoi();
 
         
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["user"] != null)
+                 Response.Redirect("Default.aspx");
         }
-        [obsolete]
+        [Obsolete]
 
-        protected System.Void btnLogin_Click(System.Object sender, System.EventArgs e)
+        protected void btnLogin_Click(Object sender,EventArgs e)
         {
 
             string username = txtUsername.Text;
             string password = kn.Mahoa(txtPassword.Text);
-            string sql = "SELECT * FROM tblUser WHERE Username='"+Username+"' AND Password='"+Password+"'";
-            sqlDataAdapter adapter = new sqlDataAdapter(sql, kn.con);
+
+            string sql = "SELECT * FROM tblUser WHERE Username='"
+                         + username + "' AND Password='" + password + "'";
+
+            SqlDataAdapter adapter = new SqlDataAdapter(sql, kn.con);
             DataTable dt = new DataTable();
             adapter.Fill(dt);
-            if(dt.Rows.cout > 0)
+
+            if (dt.Rows.Count > 0)
             {
-                Session["user"] = Username;
+                Session["user"] = username;
                 Response.Redirect("Default.aspx");
             }
             else
             {
-                Response.wirte("<script>alert('Username/Password sai');</script>"); 
+                Response.Write("<script>alert('Username/Password sai');</script>");
             }
         }
-
     }
 }

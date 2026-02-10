@@ -177,3 +177,7 @@ D:\Kim_Van\New folder\140123016_KimVan_Test-APS.net\WebApplication1\WebApplicati
 D:\Kim_Van\New folder\140123016_KimVan_Test-APS.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
 D:\TRƯỜNG ĐHTV\Môn HK Phụ\Môn Chuyên đề ASP.NET\140123016_KimVan_Test-APS.net (1)\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.dll
 D:\TRƯỜNG ĐHTV\Môn HK Phụ\Môn Chuyên đề ASP.NET\140123016_KimVan_Test-APS.net (1)\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\GitHub\140123016_KimVan_Test-APS.net\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\GitHub\140123016_KimVan_Test-APS.net\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\GitHub\140123016_KimVan_Test-APS.net\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.dll
+D:\GitHub\140123016_KimVan_Test-APS.net\140123016_KimVan_Test-APS.net\WebApplication1_bai2\WebApplication1\obj\Debug\WebApplication1.pdb

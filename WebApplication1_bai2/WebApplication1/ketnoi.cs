@@ -9,7 +9,7 @@ using System.Web.Security;
 
 namespace WebApplication1
 {
-    public class Ketnoi
+    public partial class Ketnoi
     {
         public SqlConnection con = new SqlConnection("Data source=ASUS\\SQLEXPRESS; Initial Catalog=DEMO; Integrated Security=True");
 
