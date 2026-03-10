@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T14:35:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2026-02-08T14:35:41.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
