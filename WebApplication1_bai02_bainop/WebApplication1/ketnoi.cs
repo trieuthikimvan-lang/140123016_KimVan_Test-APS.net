@@ -11,7 +11,7 @@ namespace WebApplication1
 {
     public partial class Ketnoi
     {
-        public SqlConnection con = new SqlConnection("Data source=.; Initial Catalog=DEMO; Integrated Security=True");
+        public SqlConnection con = new SqlConnection("Data source=ASUS\\SQLEXPRESS; Initial Catalog=DEMO; Integrated Security=True");
 
         [Obsolete]
         public string Mahoa(string str)
