@@ -21,11 +21,11 @@ namespace WebApplication1
                 }
                 if (!IsPostBack)
                 {
-                    hienthi();
-
-                }
-                btnsua.Enabled = false;
+                    hienthi();  
             }
+            btnsua.Enabled = false;
+
+        }
 
             protected void btnThem_Click(object sender, EventArgs e)
             {

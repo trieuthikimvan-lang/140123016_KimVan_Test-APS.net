@@ -28,16 +28,16 @@
         <tr>
    
             <td colspan="2"><asp:Button ID="btnThem" runat="server" Text="Thêm" OnClick="btnThem_Click"/>
-                <asp:Button ID="btnsua" runat="server" Text="Sửa" />
+                <asp:Button ID="btnsua" runat="server" Text="Sửa" OnClick="Btnsua_Click"/>
             </td>
         </tr>
     </table>
 
     <asp:TextBox ID="txttim" runat="server" Width="703px"> </asp:TextBox>  
-    <asp:Button ID="bttim" runat="server" Text="Tìm"/>
+    <asp:Button ID="bttim" runat="server" Text="Tìm" OnClick="bttim_Click"/>
 
     <h3>Danh sách giáo viên</h3>
-    <asp:GridView ID="qlgv" runat="server" CssClass="table" DataKeyNames="MaGV" >
+    <asp:GridView ID="qlgv" runat="server" CssClass="table" DataKeyNames="MaGV" OnRowDeleting="qlgv_RowDeleting" OnSelectedIndexChanged="qlgv_SelectedIndexChanged"> 
         
         <Columns>
             <asp:CommandField ShowSelectButton="True" />
