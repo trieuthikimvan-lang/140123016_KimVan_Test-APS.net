@@ -26,7 +26,7 @@ namespace WebApplication1
                 if (!String.IsNullOrEmpty(Request.QueryString["mamhs"]))
                 {
                     string mamh = Request.QueryString["mamhs"];
-                    string sql = "select * from tblMonhoc where MaMH='" + mamh + "'";
+                    string sql = "select * from [Monhoc] where MaMH='" + mamh + "'";
                     SqlDataAdapter da = new SqlDataAdapter(sql, kn.con);
                     DataTable dt = new DataTable();
                     da.Fill(dt);
@@ -47,7 +47,7 @@ namespace WebApplication1
                 if (!String.IsNullOrEmpty(Request.QueryString["mamhx"]))
                 {
                     string mamh = Request.QueryString["mamhx"];
-                    string sql = "delete from tblMonhoc where MaMH='" + mamh + "'";
+                    string sql = "delete from [Monhoc] where MaMH='" + mamh + "'";
                     SqlCommand cmd = new SqlCommand(sql, kn.con);
                     kn.con.Open();
                     cmd.ExecuteNonQuery();
@@ -59,7 +59,7 @@ namespace WebApplication1
         }
         void hienthi()
         {
-            string sql = "select* from tblMonhoc";
+            string sql = "select* from [Monhoc]";
             SqlDataAdapter da = new SqlDataAdapter(sql, kn.con);
             DataTable dt = new DataTable();
             da.Fill(dt);
@@ -74,7 +74,7 @@ namespace WebApplication1
             string sotiet = txtSotiet.Text;
             string hocphi = txtHocphi.Text;
 
-            string checkus = "select * from tblMonhoc where MaMH='" + mamh + "'";
+            string checkus = "select * from [Monhoc] where MaMH='" + mamh + "'";
             SqlDataAdapter da = new SqlDataAdapter(checkus, kn.con);
             DataTable dt = new DataTable();
             da.Fill(dt);
@@ -83,7 +83,7 @@ namespace WebApplication1
             else
             {
 
-                string sql = "insert into tblMonhoc(MaMH,TenMH,Sotiet,Hocphi) values('" + mamh + "',N'" + tenmh + "','" + sotiet + "','" + hocphi + "')";
+                string sql = "insert into [Monhoc](MaMH,TenMH,Sotiet,Hocphi) values('" + mamh + "',N'" + tenmh + "','" + sotiet + "','" + hocphi + "')";
                 SqlCommand cmd = new SqlCommand(sql, kn.con);
                 kn.con.Open();
                 cmd.ExecuteNonQuery();
@@ -99,7 +99,7 @@ namespace WebApplication1
             string tenmh = txtTenmon.Text;
             string sotiet = txtSotiet.Text;
             string hocphi = txtHocphi.Text;
-            string sql = "update tblMonhoc set TenMH=N'" + tenmh + "', Sotiet='" + sotiet + "', Hocphi=N'" + hocphi + "' where MaMH='" + mamh + "'";
+            string sql = "update [Monhoc] set TenMH=N'" + tenmh + "', Sotiet='" + sotiet + "', Hocphi=N'" + hocphi + "' where MaMH='" + mamh + "'";
             SqlCommand cmd = new SqlCommand(sql, kn.con);
             kn.con.Open();
             cmd.ExecuteNonQuery();

@@ -47,7 +47,7 @@ $(document).ready(function(){
         <th>Họ học viên</th>
         <th>Tên số học viên</th>
         <th>Địa chỉ học viên</th>
-    </tr>
+        <th>Chức năng</th> </tr>
 </thead>
 
     <tbody id="myTable">
@@ -58,7 +58,7 @@ $(document).ready(function(){
         <td><%#Eval("HoHV")%></td>
         <td><%#Eval("TenHV")%></td>
         <td><%#Eval("Diachi")%></td>
-        <td><a href="QLHocvien.aspx?mahvs=<%#Eval("MaHV")%>">Sửa</a> &nbsp; <a href="QLHocvien.aspx?mahvx=<%#Eval("MaHV")%>">Xóa</a></td>
+        <td><a href="QLHocvien.aspx?mahv=<%#Eval("MaHV")%>">Sửa</a> &nbsp; <a href="QLHocvien.aspx?mahvx=<%#Eval("MaHV")%>">Xóa</a></td>
 </tr>
     </ItemTemplate>
     <FooterTemplate>
@@ -67,7 +67,6 @@ $(document).ready(function(){
 </table>
 </FooterTemplate>
 </asp:Repeater>
-
-</asp:Content>
+   </asp:Content>
 
   

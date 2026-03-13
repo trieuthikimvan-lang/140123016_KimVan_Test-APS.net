@@ -3,31 +3,32 @@
   "WorkspaceRootPath": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlgiaovien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlgiaovien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlhocvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlhocvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\b\u00E0i t\u1EADp chuy\u00EAn \u0111\u1EC1\\h\u01B0\u1EDFng_chuyen asp.net\\WebApplication1\\QLhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlgiaovien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlgiaovien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlgiaovien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlgiaovien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,41 +76,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "QLHocvien.aspx.cs",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLHocvien.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\QLHocvien.aspx.cs",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLHocvien.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\QLHocvien.aspx.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:52:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "QLMonhoc.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLMonhoc.aspx.cs",
               "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx.cs",
               "RelativeToolTip": "WebApplication1\\QLMonhoc.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T08:25:04.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "QLMonhoc.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\QLMonhoc.aspx",
-              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx*",
-              "RelativeToolTip": "WebApplication1\\QLMonhoc.aspx*",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx",
+              "RelativeToolTip": "WebApplication1\\QLMonhoc.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-03-13T08:24:04.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QLhocvien.aspx.cs",
-              "DocumentMoniker": "D:\\b\u00E0i t\u1EADp chuy\u00EAn \u0111\u1EC1\\h\u01B0\u1EDFng_chuyen asp.net\\WebApplication1\\QLhocvien.aspx.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\b\u00E0i t\u1EADp chuy\u00EAn \u0111\u1EC1\\h\u01B0\u1EDFng_chuyen asp.net\\WebApplication1\\QLhocvien.aspx.cs",
-              "ToolTip": "D:\\b\u00E0i t\u1EADp chuy\u00EAn \u0111\u1EC1\\h\u01B0\u1EDFng_chuyen asp.net\\WebApplication1\\QLhocvien.aspx.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\b\u00E0i t\u1EADp chuy\u00EAn \u0111\u1EC1\\h\u01B0\u1EDFng_chuyen asp.net\\WebApplication1\\QLhocvien.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:47:16.684Z",
               "EditorCaption": ""
             },
             {
@@ -127,20 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "QLGiaovien.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLGiaovien.aspx.cs",
               "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx.cs",
               "RelativeToolTip": "WebApplication1\\QLGiaovien.aspx.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:11:32.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "QLGiaovien.aspx",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\QLGiaovien.aspx",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx",
+              "RelativeToolTip": "WebApplication1\\QLGiaovien.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-12T11:55:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Site1.Master",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
@@ -153,18 +167,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QLGiaovien.aspx",
-              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\QLGiaovien.aspx",
-              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx",
-              "RelativeToolTip": "WebApplication1\\QLGiaovien.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-12T11:55:47.412Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Logout.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Logout.aspx.cs",
@@ -173,7 +175,8 @@
               "RelativeToolTip": "WebApplication1\\Logout.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T13:36:26.119Z"
+              "WhenOpened": "2026-02-10T13:36:26.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -185,7 +188,8 @@
               "RelativeToolTip": "WebApplication1\\Logout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-10T13:36:10.789Z"
+              "WhenOpened": "2026-02-10T13:36:10.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
