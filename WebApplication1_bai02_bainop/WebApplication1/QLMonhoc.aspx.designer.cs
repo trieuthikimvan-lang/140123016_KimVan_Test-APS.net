@@ -11,61 +11,70 @@ namespace WebApplication1
 {
 
 
-    public partial class QLmonhoc
+    public partial class QLMonhoc
     {
 
         /// <summary>
-        /// txtmamh control.
+        /// txtMaMH control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtmamh;
+        protected global::System.Web.UI.WebControls.TextBox txtMaMH;
 
         /// <summary>
-        /// txttenmh control.
+        /// txtTenmon control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txttenmh;
+        protected global::System.Web.UI.WebControls.TextBox txtTenmon;
 
         /// <summary>
-        /// txtsotiet control.
+        /// txtSotiet control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtsotiet;
+        protected global::System.Web.UI.WebControls.TextBox txtSotiet;
 
         /// <summary>
-        /// txthocphi control.
+        /// txtHocphi control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txthocphi;
+        protected global::System.Web.UI.WebControls.TextBox txtHocphi;
 
         /// <summary>
-        /// btnThemMH control.
+        /// btnThem control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnThemMH;
+        protected global::System.Web.UI.WebControls.Button btnThem;
 
         /// <summary>
-        /// qlmh control.
+        /// btnsua control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView qlmh;
+        protected global::System.Web.UI.WebControls.Button btnsua;
+
+        /// <summary>
+        /// rpMH control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Repeater rpMH;
     }
 }
