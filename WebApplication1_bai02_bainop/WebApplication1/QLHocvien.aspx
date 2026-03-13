@@ -1,12 +1,18 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="QLHocvien.aspx.cs" Inherits="WebApplication1.QLHocvien" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <style type="text/css">
-        .auto-style1 {
-            width: 258px;
-        }
-    </style>
+      <script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+      </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
        <table class="table">
        <tr>
            <td class="auto-style1">Mã HV:</td>
@@ -54,7 +60,7 @@
         <td><%#Eval("Diachi")%></td>
         <td><a href="QLHocvien.aspx?mahvs=<%#Eval("MaHV")%>">Sửa</a> &nbsp; <a href="QLHocvien.aspx?mahvx=<%#Eval("MaHV")%>">Xóa</a></td>
 </tr>
-            </ItemTemplate>
+    </ItemTemplate>
     <FooterTemplate>
         
 </tbody>

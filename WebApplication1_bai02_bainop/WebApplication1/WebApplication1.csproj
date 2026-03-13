@@ -77,6 +77,7 @@
     <Content Include="Logout.aspx" />
     <Content Include="QLGiaovien.aspx" />
     <Content Include="QLHocvien.aspx" />
+    <Content Include="QLMonhoc.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -130,6 +131,13 @@
     </Compile>
     <Compile Include="QLHocvien.aspx.designer.cs">
       <DependentUpon>QLHocvien.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QLMonhoc.aspx.cs">
+      <DependentUpon>QLMonhoc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QLMonhoc.aspx.designer.cs">
+      <DependentUpon>QLMonhoc.aspx</DependentUpon>
     </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
