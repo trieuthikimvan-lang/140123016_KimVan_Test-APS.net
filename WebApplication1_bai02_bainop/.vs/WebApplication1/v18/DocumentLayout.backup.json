@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\qldiem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qldiem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\qldiem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qldiem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\phancong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\phancong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\phancong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\phancong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\phancong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\phancong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,16 +31,20 @@
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlgiaovien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|d:\\github\\140123016_kimvan_test-aps.net\\140123016_kimvan_test-aps.net\\webapplication1_bai02_bainop\\webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,37 +96,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Site1.Master.cs",
-              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master.cs",
-              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master.cs",
-              "RelativeToolTip": "WebApplication1\\Site1.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T12:51:56.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLDiem.aspx.cs",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLDiem.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\QLDiem.aspx.cs",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLDiem.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\QLDiem.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T02:35:08.882Z",
+              "WhenOpened": "2026-03-16T12:36:58.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QLDiem.aspx",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLDiem.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\QLDiem.aspx",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLDiem.aspx",
+              "RelativeToolTip": "WebApplication1\\QLDiem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-16T12:29:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Phancong.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Phancong.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Phancong.aspx.cs",
               "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Phancong.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Phancong.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T01:39:52.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Phancong.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Phancong.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Phancong.aspx",
@@ -127,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "QLMonhoc.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLMonhoc.aspx.cs",
               "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLMonhoc.aspx.cs",
               "RelativeToolTip": "WebApplication1\\QLMonhoc.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T08:25:04.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Site1.Master",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
@@ -153,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "QLGiaovien.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLGiaovien.aspx.cs",
@@ -162,19 +200,6 @@
               "ViewState": "AgIAADIAAAAAAAAAAAAAADcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:11:32.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
-              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Login.aspx.cs",
-              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T04:23:43.963Z",
               "EditorCaption": ""
             },
             {
@@ -193,6 +218,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master.cs",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Site1.Master.cs",
+              "RelativeToolTip": "WebApplication1\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T02:35:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:23:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "QLHocvien.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLHocvien.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\QLHocvien.aspx",
@@ -204,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "QLHocvien.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLHocvien.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLHocvien.aspx.cs",
@@ -216,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "QLGiaovien.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\QLGiaovien.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\QLGiaovien.aspx",
@@ -228,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Logout.aspx.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Logout.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Logout.aspx.cs",
@@ -240,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Logout.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Logout.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Logout.aspx",
@@ -252,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Signup.aspx",
               "DocumentMoniker": "D:\\WebApplication1_bai2\\WebApplication1\\Signup.aspx",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\WebApplication1_bai2\\WebApplication1\\Signup.aspx",
@@ -263,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ketnoi.cs",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\ketnoi.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ketnoi.cs",
@@ -275,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Login.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
@@ -287,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Default.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
@@ -299,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Signup.aspx.cs",
               "DocumentMoniker": "D:\\WebApplication1_bai2\\WebApplication1\\Signup.aspx.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\WebApplication1_bai2\\WebApplication1\\Signup.aspx.cs",
@@ -311,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Contact.aspx",
               "DocumentMoniker": "D:\\GitHub\\140123016_KimVan_Test-APS.net\\140123016_KimVan_Test-APS.net\\WebApplication1_bai02_bainop\\WebApplication1\\Contact.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Contact.aspx",
