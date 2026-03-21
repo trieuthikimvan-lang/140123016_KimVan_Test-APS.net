@@ -32,7 +32,7 @@ $(document).ready(function(){
 </tr>
        <tr>
   
-           <td colspan="2"><asp:Button ID="btnThem" runat="server" Text="Thêm học viên"/></td>
+           <td colspan="2"><asp:Button ID="btnThem" runat="server" Text="Thêm học viên" OnClick="btnThem_Click"/></td>
        </tr>
    </table>
     <input class="form-control" id="myInput" type="text" placeholder="Tìm kiếm..">

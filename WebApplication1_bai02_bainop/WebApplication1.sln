@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34330.188
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin1.Server", "Admin1\Admin1.Server\Admin1.Server.csproj", "{FABB2236-F884-CEC6-EEA7-E21FE8A95978}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "frontend", "Admin1\frontend\frontend.esproj", "{58225E28-54D1-ADA2-9514-50D4C170D0B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,16 @@ Global
 		{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA29FBD1-D165-4FE2-9BBB-01782C67BB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABB2236-F884-CEC6-EEA7-E21FE8A95978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB2236-F884-CEC6-EEA7-E21FE8A95978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB2236-F884-CEC6-EEA7-E21FE8A95978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB2236-F884-CEC6-EEA7-E21FE8A95978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58225E28-54D1-ADA2-9514-50D4C170D0B3}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
