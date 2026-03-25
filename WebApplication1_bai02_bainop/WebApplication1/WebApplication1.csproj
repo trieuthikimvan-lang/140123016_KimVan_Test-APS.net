@@ -80,6 +80,8 @@
     <Content Include="QLGiaovien.aspx" />
     <Content Include="QLHocvien.aspx" />
     <Content Include="QLMonhoc.aspx" />
+    <Content Include="QLNguoidung.aspx" />
+    <Content Include="Thongke.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -155,12 +157,26 @@
     <Compile Include="QLMonhoc.aspx.designer.cs">
       <DependentUpon>QLMonhoc.aspx</DependentUpon>
     </Compile>
+    <Compile Include="QLNguoidung.aspx.cs">
+      <DependentUpon>QLNguoidung.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QLNguoidung.aspx.designer.cs">
+      <DependentUpon>QLNguoidung.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Thongke.aspx.cs">
+      <DependentUpon>Thongke.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Thongke.aspx.designer.cs">
+      <DependentUpon>Thongke.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
